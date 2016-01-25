@@ -1,6 +1,6 @@
 # Piter
 PiterOpis
 int main(){
-  sout << "jaki tekst";
+  sout << "jaki tekst"; // heheszki śmieszki
 return 0;
 }
